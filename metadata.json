@@ -1,0 +1,6 @@
+{
+  "name": "Aarogya City Hospital",
+  "description": "Discover Aarogya City Hospital in City Centre, Dhanbad — a patient-focused healthcare environment offering professional healthcare services and support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
